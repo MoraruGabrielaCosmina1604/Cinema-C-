@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\test\\Desktop\\invatare C\u002B\u002B\\ProiectFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B22CFBBA-4E4B-45EF-8FAE-48D5FE62AEBD}|ProiectFinal\\ProiectFinal.vcxproj|C:\\Users\\test\\Desktop\\invatare C\u002B\u002B\\ProiectFinal\\ProiectFinal\\Bilet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B22CFBBA-4E4B-45EF-8FAE-48D5FE62AEBD}|ProiectFinal\\ProiectFinal.vcxproj|solutionrelative:ProiectFinal\\Bilet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B22CFBBA-4E4B-45EF-8FAE-48D5FE62AEBD}|ProiectFinal\\ProiectFinal.vcxproj|C:\\Users\\test\\Desktop\\invatare C\u002B\u002B\\ProiectFinal\\ProiectFinal\\Incasare.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B22CFBBA-4E4B-45EF-8FAE-48D5FE62AEBD}|ProiectFinal\\ProiectFinal.vcxproj|solutionrelative:ProiectFinal\\Incasare.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B22CFBBA-4E4B-45EF-8FAE-48D5FE62AEBD}|ProiectFinal\\ProiectFinal.vcxproj|C:\\Users\\test\\Desktop\\invatare C\u002B\u002B\\ProiectFinal\\ProiectFinal\\Film.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B22CFBBA-4E4B-45EF-8FAE-48D5FE62AEBD}|ProiectFinal\\ProiectFinal.vcxproj|solutionrelative:ProiectFinal\\Film.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B22CFBBA-4E4B-45EF-8FAE-48D5FE62AEBD}|ProiectFinal\\ProiectFinal.vcxproj|C:\\Users\\test\\Desktop\\invatare C\u002B\u002B\\ProiectFinal\\ProiectFinal\\Cinema.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B22CFBBA-4E4B-45EF-8FAE-48D5FE62AEBD}|ProiectFinal\\ProiectFinal.vcxproj|solutionrelative:ProiectFinal\\Cinema.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B22CFBBA-4E4B-45EF-8FAE-48D5FE62AEBD}|ProiectFinal\\ProiectFinal.vcxproj|C:\\Users\\test\\Desktop\\invatare C\u002B\u002B\\ProiectFinal\\ProiectFinal\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B22CFBBA-4E4B-45EF-8FAE-48D5FE62AEBD}|ProiectFinal\\ProiectFinal.vcxproj|solutionrelative:ProiectFinal\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 256,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 72,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Incasare.h",
+              "DocumentMoniker": "C:\\Users\\test\\Desktop\\invatare C\u002B\u002B\\ProiectFinal\\ProiectFinal\\Incasare.h",
+              "RelativeDocumentMoniker": "ProiectFinal\\Incasare.h",
+              "ToolTip": "C:\\Users\\test\\Desktop\\invatare C\u002B\u002B\\ProiectFinal\\ProiectFinal\\Incasare.h",
+              "RelativeToolTip": "ProiectFinal\\Incasare.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-31T10:54:59.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Film.h",
+              "DocumentMoniker": "C:\\Users\\test\\Desktop\\invatare C\u002B\u002B\\ProiectFinal\\ProiectFinal\\Film.h",
+              "RelativeDocumentMoniker": "ProiectFinal\\Film.h",
+              "ToolTip": "C:\\Users\\test\\Desktop\\invatare C\u002B\u002B\\ProiectFinal\\ProiectFinal\\Film.h",
+              "RelativeToolTip": "ProiectFinal\\Film.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-31T10:54:44.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cinema.h",
+              "DocumentMoniker": "C:\\Users\\test\\Desktop\\invatare C\u002B\u002B\\ProiectFinal\\ProiectFinal\\Cinema.h",
+              "RelativeDocumentMoniker": "ProiectFinal\\Cinema.h",
+              "ToolTip": "C:\\Users\\test\\Desktop\\invatare C\u002B\u002B\\ProiectFinal\\ProiectFinal\\Cinema.h",
+              "RelativeToolTip": "ProiectFinal\\Cinema.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-31T10:54:34.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bilet.h",
+              "DocumentMoniker": "C:\\Users\\test\\Desktop\\invatare C\u002B\u002B\\ProiectFinal\\ProiectFinal\\Bilet.h",
+              "RelativeDocumentMoniker": "ProiectFinal\\Bilet.h",
+              "ToolTip": "C:\\Users\\test\\Desktop\\invatare C\u002B\u002B\\ProiectFinal\\ProiectFinal\\Bilet.h",
+              "RelativeToolTip": "ProiectFinal\\Bilet.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-31T10:54:08.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\test\\Desktop\\invatare C\u002B\u002B\\ProiectFinal\\ProiectFinal\\Source.cpp",
+              "RelativeDocumentMoniker": "ProiectFinal\\Source.cpp",
+              "ToolTip": "C:\\Users\\test\\Desktop\\invatare C\u002B\u002B\\ProiectFinal\\ProiectFinal\\Source.cpp",
+              "RelativeToolTip": "ProiectFinal\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-31T09:59:05.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
